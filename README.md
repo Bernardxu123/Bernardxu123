@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bernard!
+### Hi there 👋, I'm Bernardxu123!
 
 I am an open-source enthusiast, developer, and designer focusing on **AI Agent Infrastructure** and **LLM Ecosystems**. I believe in the power of open-source and building tools that empower developers.
 
